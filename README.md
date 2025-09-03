@@ -1,3 +1,4 @@
 # Raspberrypie_Webserver
 
-### 가은이와 재준이의 프로젝트입니다.
+#### 김가은, 이재준
+
